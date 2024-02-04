@@ -3,5 +3,5 @@ function a() {
 }
 
 function b() {
-    
+    return 9 * 9;
 }
